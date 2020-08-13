@@ -1,0 +1,8 @@
+made by selfrep#6192
+
+
+Flag Parsing Helped by Путин#4223 (he wrote i added commands)
+Creds {
+https://github.com/syrinsecurity
+https://syrinsecurity.net
+}
