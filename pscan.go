@@ -1,13 +1,7 @@
 package main
 
 /*
-
-PSCAN - {
-	Fast Portscanner By Selfrep#6192
-	ig: @h4_remiixx
-	https://github.com/self-rep
-}
-
+configureable portscanner
 */
 import (
 	"fmt"
