@@ -8,8 +8,6 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	_ "github.com/mattn/go-colorable"
 )
 
 func checkport(ip string, port int, ms time.Duration) {
