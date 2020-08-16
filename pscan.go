@@ -45,7 +45,7 @@ func main() {
 			case "threads":
 				amount, err := strconv.Atoi(kv[1])
 				if err != nil {
-					fmt.Println("Invalid Port")
+					fmt.Println("Invalid Thread Count")
 					return
 				}
 				threads = amount
